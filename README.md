@@ -1,4 +1,4 @@
-# Allow-My-URL-Schemes
+# Allow My URL Schemes
 A Wordpress plugin that adds my apps' URL schemes to the allowed protocols, so Wordpress stops messing up links into my apps.
 
 ## Restrictions
